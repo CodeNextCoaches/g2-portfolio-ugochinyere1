@@ -1,0 +1,37 @@
+html{
+
+	box-sizing: border-box;
+}
+
+
+nav ul{
+	list-style-type:none;  
+	margin: 2%;
+
+}
+nav ul li{
+	display: inline;
+	border: 2px solid black;
+	padding: 10px 
+}
+
+span{
+
+	float: right;
+}
+
+ .Icons{
+ 	width: 20px;
+
+ }
+
+
+p{
+background-color: #d6fff2
+border-box: 2px;
+	margin:30px
+}
+
+
+
+
