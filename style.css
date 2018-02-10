@@ -1,6 +1,7 @@
 html{
+	background: #ffe5ea;
 
-	box-sizing: border-box;
+	box-sizing: content-box;
 }
 
 
@@ -9,6 +10,7 @@ nav ul{
 	margin: 2%;
 
 }
+
 nav ul li{
 	display: inline;
 	border: 2px solid black;
@@ -25,12 +27,22 @@ span{
 
  }
 
+.Banner-animated-flash {
+text-align: center;
+font-size: 20;
+font:'Amatic SC';
+background-color:#d6fff2 ;
 
-p{
-background-color: #d6fff2
-border-box: 2px;
-	margin:30px
-}
+} 
+
+h1{
+padding: 200px;
+text-align: center;
+font-size: 100;
+font:'Amatic SC';
+background-color:#d6fff2 ;
+
+
 
 
 
